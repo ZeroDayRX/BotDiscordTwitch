@@ -1,0 +1,23 @@
+{
+  "name": "botdiscordtwitch",
+  "version": "1.0.0",
+  "description": "Bot de integracao twwitch e discord",
+  "main": "index.js",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroDayRX/BotDiscordTwitch.git"
+  },
+  "author": "ZeroDay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroDayRX/BotDiscordTwitch/issues"
+  },
+  "homepage": "https://github.com/ZeroDayRX/BotDiscordTwitch#readme"
+}
